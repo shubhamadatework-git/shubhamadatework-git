@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=Turning+Data+into+Decisions;Data+Analyst+%26+ML+Enthusiast;Building+Analytics+%26+Machine+Learning+Projects;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/adate-shubham">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
