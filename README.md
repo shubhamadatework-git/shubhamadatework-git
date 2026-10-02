@@ -2,7 +2,12 @@
 
 # Hi 👋, I'm Shubham Adate
 
-### Data Analyst | Python • SQL • Power BI • Machine Learning
+### Data Analyst | Machine Learning Practitioner
+
+**SQL • Python • Power BI • Excel • Scikit-learn**
+
+<i>"Torture the data, and it will confess to anything."</i><br>
+<b>— Ronald Coase</b>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=2500&pause=800&color=2F80ED&center=true&vCenter=true&width=850&lines=Turning+Data+into+Decisions;Data+Analyst+%26+ML+Enthusiast;Building+Analytics+%26+Machine+Learning+Projects;SQL+%7C+Excel+%7C+Power+BI+%7C+Python" alt="Typing SVG" />
 
@@ -48,10 +53,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shubhamadatework-git&show_icons=true&theme=transparent&title_color=2F80ED&icon_color=2F80ED&text_color=1F2937&border_color=93C5FD" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamadatework-git&layout=compact&theme=transparent&title_color=2F80ED&text_color=1F2937&border_color=93C5FD" />
+<img src="https://github-readme-stats.vercel.app/api?username=shubhamadatework-git&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamadatework-git&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=shubhamadatework-git&theme=default&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&border=93C5FD" />
+<img src="https://streak-stats.demolab.com?user=shubhamadatework-git&theme=tokyonight&hide_border=true" />
 
 </div>
 
