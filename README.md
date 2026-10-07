@@ -70,6 +70,57 @@
 - Preparing for Data Analyst roles
 
 ---
+## 🚀 Featured Projects
+
+### 🏨 [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)
+
+Random Forest on 36,275 bookings reached 90.2% accuracy and 0.88 AUC, up from an 80.4% logistic regression baseline. Lead time is the main driver of cancellations.
+
+---
+
+### 🏦 [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![Imbalanced Data](https://img.shields.io/badge/Imbalanced%20Data-red?style=for-the-badge)
+
+Compared 7 classifiers on 6,819 companies. Random Forest reached 96.99% accuracy; with only about 3% bankrupt firms, the repo also reports class-level precision and recall.
+
+---
+
+### ⚡ [Household Energy Consumption Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-7B1FA2?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-0288D1?style=for-the-badge)
+
+Compared 8 regressors on 10-minute sensor data. Extra Trees performed best (test R² 0.645) and time of day mattered far more than temperature or humidity.
+
+---
+
+### ☀️ [Solar Production Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-green?style=for-the-badge)
+![DBSCAN](https://img.shields.io/badge/DBSCAN-orange?style=for-the-badge)
+
+Grouped 1,730 ZIP-code zones into 4 market types from 218,115 solar project records, with PCA and t-SNE visuals.
+
+---
+
+### 🛒 [Product Clustering for Retail and Warehouse Sales](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![K-Means](https://img.shields.io/badge/K--Means-green?style=for-the-badge)
+
+K-Means segmentation of products by sales behaviour (silhouette score 0.764) to support inventory and distribution decisions.
+
+---
+
+### 🔆 [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge)
+
+Random Forest regression of estimated annual solar output, explained with SHAP. The repo notes why the high R² should be read with care.
 
 ## 🌟 Personal Motto
 
