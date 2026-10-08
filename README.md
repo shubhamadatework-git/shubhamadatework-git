@@ -70,9 +70,22 @@
 - Preparing for Data Analyst roles
 
 ---
+
 ## 🚀 Featured Projects
 
-### 🏨 [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction)
+| Project | What it answers | Tools | Key result |
+|---|---|---|---|
+| [Olist Delivery Analysis](https://github.com/shubhamadatework-git/olist-delivery-analysis-sql) | How do late deliveries affect customer reviews? | MySQL | Late orders score 2.27 stars vs 4.29 for on-time |
+| [Fraud Detection Capstone](https://github.com/shubhamadatework-git/Capstone-Fraud-Detection-Project-Shubham-Adate-) | Where does financial fraud concentrate? | Power BI, Python | [result] |
+| [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction) | Which companies are at risk of bankruptcy? | Python, Scikit-learn | [result] |
+| [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction) | Which bookings are likely to be cancelled? | Python, Scikit-learn | [result] |
+| [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction) | How much solar energy will be produced? | Python, Scikit-learn | [result] |
+| [Retail Warehouse Sales Clustering](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales) | Which products behave alike in sales? | Python, Scikit-learn | [result] |
+| [Household Energy Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction) | What drives household energy use? | Python, Scikit-learn | [result] |
+| [Solar Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering) | Which zones produce solar energy similarly? | Python, Scikit-learn | [result] |
+
+
+###  [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Classification](https://img.shields.io/badge/Classification-green?style=for-the-badge)
@@ -81,7 +94,7 @@ Random Forest on 36,275 bookings reached 90.2% accuracy and 0.88 AUC, up from an
 
 ---
 
-### 🏦 [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction)
+###  [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![Imbalanced Data](https://img.shields.io/badge/Imbalanced%20Data-red?style=for-the-badge)
@@ -90,7 +103,7 @@ Compared 7 classifiers on 6,819 companies. Random Forest reached 96.99% accuracy
 
 ---
 
-### ⚡ [Household Energy Consumption Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction)
+###  [Household Energy Consumption Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-7B1FA2?style=for-the-badge)
 ![PCA](https://img.shields.io/badge/PCA-0288D1?style=for-the-badge)
@@ -99,7 +112,7 @@ Compared 8 regressors on 10-minute sensor data. Extra Trees performed best (test
 
 ---
 
-### ☀️ [Solar Production Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering)
+###  [Solar Production Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![K-Means](https://img.shields.io/badge/K--Means-green?style=for-the-badge)
 ![DBSCAN](https://img.shields.io/badge/DBSCAN-orange?style=for-the-badge)
