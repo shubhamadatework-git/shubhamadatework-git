@@ -19,7 +19,7 @@
 
 ---
 
-## 💫 About Me
+##  About Me
 
 - 🎓 Master's Diploma in Data Science & AI — Boston Institute of Analytics (2026)
 - 📊 Data Analyst with hands-on experience in data cleaning, EDA, dashboards and ML modeling
@@ -30,7 +30,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -62,7 +62,7 @@
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Strengthening Python for analytics & ML
 - Practicing advanced SQL (window functions, CTEs)
@@ -71,7 +71,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it answers | Tools | Key result |
 |---|---|---|---|
@@ -121,7 +121,7 @@ Grouped 1,730 ZIP-code zones into 4 market types from 218,115 solar project reco
 
 ---
 
-### 🛒 [Product Clustering for Retail and Warehouse Sales](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales)
+###  [Product Clustering for Retail and Warehouse Sales](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![K-Means](https://img.shields.io/badge/K--Means-green?style=for-the-badge)
 
@@ -129,13 +129,13 @@ K-Means segmentation of products by sales behaviour (silhouette score 0.764) to 
 
 ---
 
-### 🔆 [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction)
+###  [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-blue?style=for-the-badge)
 
 Random Forest regression of estimated annual solar output, explained with SHAP. The repo notes why the high R² should be read with care.
 
-## 🌟 Personal Motto
+##  Personal Motto
 
 > **Learn continuously, build confidently, grow consistently.**
 
