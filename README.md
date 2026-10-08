@@ -75,14 +75,14 @@
 
 | Project | What it answers | Tools | Key result |
 |---|---|---|---|
-| [Olist Delivery Analysis](https://github.com/shubhamadatework-git/olist-delivery-analysis-sql) | How do late deliveries affect customer reviews? | MySQL | Late orders score 2.27 stars vs 4.29 for on-time |
-| [Fraud Detection Capstone](https://github.com/shubhamadatework-git/Capstone-Fraud-Detection-Project-Shubham-Adate-) | Where does financial fraud concentrate? | Power BI, Python | [result] |
-| [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction) | Which companies are at risk of bankruptcy? | Python, Scikit-learn | [result] |
-| [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction) | Which bookings are likely to be cancelled? | Python, Scikit-learn | [result] |
-| [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction) | How much solar energy will be produced? | Python, Scikit-learn | [result] |
-| [Retail Warehouse Sales Clustering](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales) | Which products behave alike in sales? | Python, Scikit-learn | [result] |
-| [Household Energy Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction) | What drives household energy use? | Python, Scikit-learn | [result] |
-| [Solar Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering) | Which zones produce solar energy similarly? | Python, Scikit-learn | [result] |
+| [Olist Delivery Analysis](https://github.com/shubhamadatework-git/olist-delivery-analysis-sql) | How much do late deliveries hurt customer reviews? | MySQL | Only 6.77% of orders arrive late, but they score **2.27 stars vs 4.29** for on-time orders |
+| [Fraud Detection Capstone](https://github.com/shubhamadatework-git/Capstone-Fraud-Detection-Project-Shubham-Adate-) | Where does financial fraud concentrate? | Power BI, Python | [add one finding or number from the dashboard] |
+| [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction) | Which bookings are likely to be cancelled? | Python, Scikit-learn | Random Forest hit **90.2% accuracy, 0.88 AUC** (baseline 80.4%); lead time is the main driver |
+| [Company Bankruptcy Prediction](https://github.com/shubhamadatework-git/company-bankruptcy-prediction) | Which companies are at risk of bankruptcy? | Python, Scikit-learn, XGBoost | 7 models on 6,819 companies; Random Forest **96.99% accuracy**, and the repo reports precision and recall for the rare bankrupt class (about 3% of firms) |
+| [Household Energy Consumption Prediction](https://github.com/shubhamadatework-git/household-energy-consumption-prediction) | What drives appliance energy use? | Python, Scikit-learn, PCA | 8 regressors compared; Extra Trees best with **test R² 0.645**; time of day mattered far more than temperature or humidity |
+| [Solar Energy Production Prediction](https://github.com/shubhamadatework-git/solar-energy-production-prediction) | How much energy will a solar installation produce? | Python, Scikit-learn, SHAP | Random Forest **R² 0.99** on estimated annual output, with SHAP showing system size as the top driver |
+| [Retail & Warehouse Product Clustering](https://github.com/shubhamadatework-git/product-clustering-retail-warehouse-sales) | Which products behave alike in sales? | Python, K-Means | Product segments with **silhouette score 0.764** to support inventory decisions |
+| [Solar Production Zone Clustering](https://github.com/shubhamadatework-git/solar-production-zone-clustering) | Which ZIP zones form similar solar markets? | Python, K-Means, DBSCAN | **218,115 project records grouped into 1,730 zones and 4 market types** |
 
 
 ###  [Hotel Cancellation Prediction](https://github.com/shubhamadatework-git/hotel-cancellation-prediction)
